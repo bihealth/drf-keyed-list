@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.2.1](https://www.github.com/bihealth/drf-keyed-list/compare/v0.2.0...v0.2.1) (2024-02-29)
+
+
+### Continuous Integration
+
+* install setuptools in release-please ([#9](https://www.github.com/bihealth/drf-keyed-list/issues/9)) ([#10](https://www.github.com/bihealth/drf-keyed-list/issues/10)) ([9909b98](https://www.github.com/bihealth/drf-keyed-list/commit/9909b9813f769a1c13502918073c2e63430f87c1))
+
 ## [0.2.0](https://www.github.com/bihealth/drf-keyed-list/compare/v0.1.1...v0.2.0) (2024-02-29)
 
 
