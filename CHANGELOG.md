@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://www.github.com/bihealth/drf-keyed-list/compare/v0.1.1...v0.2.0) (2024-02-29)
+
+
+### Features
+
+* update for Django 4.2 compatibility ([#6](https://www.github.com/bihealth/drf-keyed-list/issues/6)) ([#7](https://www.github.com/bihealth/drf-keyed-list/issues/7)) ([d4745b8](https://www.github.com/bihealth/drf-keyed-list/commit/d4745b84fef38cbc1aff94aee992782ba2c0a1f8))
+
 ### [0.1.1](https://www.github.com/bihealth/drf-keyed-list/compare/v0.1.0...v0.1.1) (2023-07-18)
 
 

@@ -10,7 +10,7 @@ with open('README.md') as f:
 
 setup(
     name='drf-keyed-list-bihealth',
-    version='0.1.1',
+    version='0.2.0',
     url='http://github.com/bihealth/drf-keyed-list',
     license='Apache 2.0',
     description=('Fork of drf-keyed-list maintained by @bihealth'),
